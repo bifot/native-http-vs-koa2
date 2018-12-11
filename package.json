@@ -1,0 +1,36 @@
+{
+  "name": "native-http-vs-koa2",
+  "version": "1.0.0",
+  "description": "Performance check between native http module vs koa2.",
+  "main": "src/http.js",
+  "directories": {
+    "benchmarks": "node "
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/native-http-vs-koa2.git"
+  },
+  "keywords": [
+    "koa",
+    "http",
+    "perforamnce",
+    "benchmarks",
+    "api",
+    "koa2",
+    "api",
+    "rest",
+    "nodejs"
+  ],
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bifot/native-http-vs-koa2/issues"
+  },
+  "homepage": "https://github.com/bifot/native-http-vs-koa2#readme",
+  "dependencies": {
+    "koa": "^2.6.2"
+  }
+}
