@@ -20,7 +20,6 @@
     "benchmarks",
     "api",
     "koa2",
-    "api",
     "rest",
     "nodejs"
   ],

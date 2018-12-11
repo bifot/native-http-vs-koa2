@@ -31,6 +31,7 @@ app.listen(process.env.PORT);
 ## Benchmarks
 
 ```sh
+$ node -v                    # v8.12.0
 $ bash ./benchmarks/http.sh  # 104099 requests for 5 seconds
 $ bash ./benchmarks/koa.sh   # 87970  requests for 5 seconds 
 ```
